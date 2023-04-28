@@ -25,7 +25,7 @@ app.listen(port, ()=>{
  
 
 
-// echo "# the-news-dragon-server" >> README.md
+// echo "# the-news-dragon-server" >> README.m
 // git init
 // git add README.md
 // git commit -m "first commit"
